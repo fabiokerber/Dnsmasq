@@ -10,7 +10,7 @@ $ sudo vi /etc/netplan/00-installer-config.yaml
 $ sudo netplan apply
 ```
 
-# DNS MASQ no Ubuntu Server (192.168.0.120)#
+# Dnsmasq no Ubuntu Server (192.168.0.120)#
 https://blog.csainty.com/2016/09/running-dnsmasq-in-docker.html<br>
 https://askubuntu.com/questions/191226/dnsmasq-failed-to-create-listening-socket-for-port-53-address-already-in-use<br>
 ```
